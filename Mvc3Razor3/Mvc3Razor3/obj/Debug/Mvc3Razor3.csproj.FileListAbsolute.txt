@@ -1,0 +1,7 @@
+c:\users\enigma\documents\visual studio 2010\Projects\Mvc3Razor3\Mvc3Razor3\bin\Mvc3Razor3.dll
+c:\users\enigma\documents\visual studio 2010\Projects\Mvc3Razor3\Mvc3Razor3\bin\Mvc3Razor3.pdb
+c:\users\enigma\documents\visual studio 2010\Projects\Mvc3Razor3\Mvc3Razor3\bin\EntityFramework.dll
+c:\users\enigma\documents\visual studio 2010\Projects\Mvc3Razor3\Mvc3Razor3\bin\EntityFramework.xml
+c:\users\enigma\documents\visual studio 2010\Projects\Mvc3Razor3\Mvc3Razor3\obj\Debug\ResolveAssemblyReference.cache
+c:\users\enigma\documents\visual studio 2010\Projects\Mvc3Razor3\Mvc3Razor3\obj\Debug\Mvc3Razor3.dll
+c:\users\enigma\documents\visual studio 2010\Projects\Mvc3Razor3\Mvc3Razor3\obj\Debug\Mvc3Razor3.pdb
